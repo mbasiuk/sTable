@@ -50,4 +50,4 @@ By default this used for sorting as int numbers, but you may easy customize it.
 ```
 
 # License
-Dual License: Dual licensed [MIT](http://www.opensource.org/licenses/mit-license) & [GPL](http://www.opensource.org/licenses/gpl-license)
+Dual licensed [MIT](http://www.opensource.org/licenses/mit-license) & [GPL](http://www.opensource.org/licenses/gpl-license)
