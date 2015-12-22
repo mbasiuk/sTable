@@ -1,4 +1,11 @@
 ﻿(function ($) {
+  /*
+      sTable
+      Author: Mykhailo Basiuk
+      License: Dual licensed MIT (http://www.opensource.org/licenses/mit-license) & GPL (http://www.opensource.org/licenses/gpl-license)
+      Version 0.2.0
+  */
+
     $.fn.sTable = function (options) {
 
         var settings = $.extend({

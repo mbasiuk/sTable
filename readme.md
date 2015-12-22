@@ -1,10 +1,16 @@
+# sTable widget
+
+Used for sorting rows in the table.   
+By default this used for sWorting as int numbers, but you may easy customize it.
+
+# Examples:
+
 ```html
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>sortable demo</title>
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <title>sTable demo</title>
   <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   <script src="//sTable.js"></script>
 </head>
@@ -42,3 +48,6 @@
 </body>
 </html>
 ```
+
+# License
+Dual License: Dual licensed [MIT](http://www.opensource.org/licenses/mit-license) & [GPL](http://www.opensource.org/licenses/gpl-license)
