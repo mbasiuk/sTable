@@ -3,10 +3,10 @@
 Used for sorting rows in the table.   
 By default this used for sorting as int numbers, but you may easy customize it.
 
-# Dependencies:
+## Dependencies:
 [jQuery](https://github.com/jquery/jquery)
 
-# Examples:
+## Examples:
 ```html
 <!doctype html>
 <html lang="en">
@@ -51,5 +51,5 @@ By default this used for sorting as int numbers, but you may easy customize it.
 </html>
 ```
 
-# License
+## License
 Dual licensed [MIT](http://www.opensource.org/licenses/mit-license) & [GPL](http://www.opensource.org/licenses/gpl-license)
