@@ -54,7 +54,7 @@ By default this used for sorting as int numbers, but you may easy customize it.
 Before:
 
 | Col 1 | Col 2 |
-|:
+|---|---|
 | Item 1 1 | 16 000 000 |
 | Item 2 1 | 17 000 000 |
 | Item 3 1 | 16 500 000 |
@@ -63,7 +63,7 @@ Before:
 After:
 
 | Col 1 | Col 2 |
-|:
+|---|---|
 | Item 1 1 | 16 000 000 |
 | Item 3 1 | 16 500 000 |
 | Item 2 1 | 17 000 000 |
