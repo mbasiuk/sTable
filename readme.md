@@ -31,15 +31,15 @@ By default this used for sorting as int numbers, but you may easy customize it.
       <td>16 000 000</td>
     </tr>
     <tr>
-      <td>Item 1 1</td>
+      <td>Item 2 1</td>
       <td>17 000 000</td>
     </tr>
     <tr>
-      <td>Item 1 1</td>
+      <td>Item 3 1</td>
       <td>16 500 000</td>
     </tr>
     <tr>
-      <td>Item 1 1</td>
+      <td>Item 4 1</td>
       <td>17 500 000</td>
     </tr>
   </tbody>
@@ -50,6 +50,25 @@ By default this used for sorting as int numbers, but you may easy customize it.
 </body>
 </html>
 ```
+
+Before:
+
+| Col 1 | Col 2 |
+|:
+| Item 1 1 | 16 000 000 |
+| Item 2 1 | 17 000 000 |
+| Item 3 1 | 16 500 000 |
+| Item 4 1 | 17 500 500 |
+
+After:
+
+| Col 1 | Col 2 |
+|:
+| Item 1 1 | 16 000 000 |
+| Item 3 1 | 16 500 000 |
+| Item 2 1 | 17 000 000 |
+| Item 4 1 | 17 500 500 |
+
 
 ## License
 Dual licensed [MIT](http://www.opensource.org/licenses/mit-license) & [GPL](http://www.opensource.org/licenses/gpl-license)
