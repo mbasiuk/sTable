@@ -3,8 +3,10 @@
 Used for sorting rows in the table.   
 By default this used for sorting as int numbers, but you may easy customize it.
 
-# Examples:
+# Dependencies:
+[jQuery](https://github.com/jquery/jquery)
 
+# Examples:
 ```html
 <!doctype html>
 <html lang="en">
